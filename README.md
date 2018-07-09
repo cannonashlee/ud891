@@ -15,4 +15,4 @@ course instructor notes.
 ## Found a bug?
 
 Please feel free to [create an issue](https://github.com/udacity/ud891/issues/new)
-if you find anything wrong with the exercises.
+if you find anything wrong with the exercises. this should be fun...

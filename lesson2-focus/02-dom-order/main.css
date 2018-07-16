@@ -58,9 +58,11 @@ header {
   margin-right: 18px;
 }
 
+
 .menu a:last-child {
   margin-right: 0;
 }
+
 
 .menu .btn-search img {
   vertical-align: top;
